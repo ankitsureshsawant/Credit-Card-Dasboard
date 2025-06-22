@@ -1,2 +1,2 @@
 # Credit-Card-Dasboard
-Credit Crad data analysis On PowerBI 
+Credit Card data analysis On PowerBI 
